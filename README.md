@@ -15,6 +15,6 @@ That's all and make sure you have account in your DBMS. Change your connect stri
 String ConnectionUrl = "jdbc:sqlserver://localhost:1433;databasename = SinhVien;encrypt=true;trustServerCertificate=true;";
 String user = "thinh";
 String password = "";
-   It's in DBConnection.java in dao package.
+It's in DBConnection.java in dao package.
 
 ENJOY MY CODE! LOVE YOU GUYS VERY MUCH 😘
