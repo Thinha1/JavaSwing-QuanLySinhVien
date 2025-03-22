@@ -16,3 +16,5 @@ String ConnectionUrl = "jdbc:sqlserver://localhost:1433;databasename = SinhVien;
 String user = "thinh";
 String password = "";
    It's in DBConnection.java in dao package.
+
+ENJOY MY CODE! LOVE YOU GUYS VERY MUCH 😘
