@@ -14,9 +14,11 @@ CREATE TABLE ThongTin (
 ```
 
 That's all and make sure you have account in your DBMS. Change your connect string to fit with your account
+```java
 String ConnectionUrl = "jdbc:sqlserver://localhost:1433;databasename = SinhVien;encrypt=true;trustServerCertificate=true;";
 String user = "thinh";
 String password = "";
+```
 It's in DBConnection.java in dao package.
 
 ENJOY MY CODE! LOVE YOU GUYS VERY MUCH 😘
