@@ -2,6 +2,7 @@ Here's how to create database
 CREATE DATABASE SinhVien;
 
 Create table
+```sql
 CREATE TABLE ThongTin (
     MaSV INT NOT NULL,
     HoTen NVARCHAR(100),
@@ -10,6 +11,7 @@ CREATE TABLE ThongTin (
     DiemTB FLOAT,
     PRIMARY KEY (MaSV)
 );
+```
 
 That's all and make sure you have account in your DBMS. Change your connect string to fit with your account
 String ConnectionUrl = "jdbc:sqlserver://localhost:1433;databasename = SinhVien;encrypt=true;trustServerCertificate=true;";
